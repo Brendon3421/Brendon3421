@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Brendon-Bernardi&section=header&reversal=true&desc=Programador%20Junior" width="1000" height="340" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent" width="480" height="210"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical" width="500" height="210">
+<img src="https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent" width="460" height="210"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical" width="460" height="210">
 
 ## Linguagem e framework que estou estudando e trabalhando 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
