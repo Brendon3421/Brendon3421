@@ -1,4 +1,5 @@
-![Wave](https://source.unsplash.com/featured/?wave)
+![Wave](https://source.unsplash.com/800x300/?nature)
+
 ### Olá! 👋
 
 Sou um desenvolvedor júnior!
