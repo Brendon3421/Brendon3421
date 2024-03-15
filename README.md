@@ -13,8 +13,4 @@ Sou um desenvolvedor júnior!
 
 📈 Aqui estão algumas estatísticas do meu GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent)
-
-🌟As linguagens que mais utilizo nos meus projetos são:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
