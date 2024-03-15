@@ -1,3 +1,4 @@
+![Wave](https://source.unsplash.com/featured/?wave)
 ### Olá! 👋
 
 Sou um desenvolvedor júnior!
