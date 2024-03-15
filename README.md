@@ -1,4 +1,4 @@
-![Wave](https://source.unsplash.com/800x300/?nature)
+![Wave]([https://source.unsplash.com/800x300/?nature](https://stock.adobe.com/br/search?k=waves+png&asset_id=540083851))
 
 ### Olá! 👋
 
