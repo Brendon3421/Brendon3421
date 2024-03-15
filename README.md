@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent" alt="GitHub Stats" width="500" height="210" style="margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical" alt="Top Languages" width="400" height="210" style="margin: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical" alt="Top Languages" width="380" height="210" style="margin: 5px;">
 </div>
 
 ## Linguagem e framework que estou estudando e trabalhando 
