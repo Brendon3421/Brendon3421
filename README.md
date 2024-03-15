@@ -10,8 +10,8 @@ Sou um desenvolvedor júnior apaixonado por tecnologia e programação!
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
- 📈 Aqui estão algumas estatísticas do meu GitHub:
 
+📈 Aqui estão algumas estatísticas do meu GitHub:
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent)
 
 🌟 As linguagens que mais utilizo nos meus projetos são:
