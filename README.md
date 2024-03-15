@@ -1,8 +1,5 @@
-![Wave]([https://source.unsplash.com/800x300/?nature](https://stock.adobe.com/br/search?k=waves+png&asset_id=540083851))
 
-### Olá! 👋
 
-Sou um desenvolvedor júnior!
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -15,5 +12,5 @@ Sou um desenvolvedor júnior!
 
 📈 Aqui estão algumas estatísticas do meu GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent&width=400&height=200) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical&width=400&height=200)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent" width="500" height="210"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical" width="400" height="210">a
 
