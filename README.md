@@ -11,4 +11,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon3421&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
