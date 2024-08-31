@@ -11,6 +11,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
+[![Type-script](https://img.shields.io/badge/Type-script-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://react.dev/)
 ## Ferramentas que utilizo para trabalho
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,vue,bootstrap,nodejs,postman,vscode,github)](https://skillicons.dev)
