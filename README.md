@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3421&layout=compact&theme=radical" alt="Top Languages" width="340" height="230" style="margin: 5px;">
 </div>
 
-## Linguagem e framework que estou estudando e trabalhando 
+## Linguagem e framework que estou estudando
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -14,5 +14,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 ## Ferramentas que utilizo para trabalho
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,vue,bootstrap,nodejs,postman,vscode,github,mongodb,typescript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,vue,bootstrap,nodejs,postman,vscode,github)](https://skillicons.dev)
+## Ferramentas que tenho melhor conhecimento
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,postman,vscode,github)](https://skillicons.dev)
