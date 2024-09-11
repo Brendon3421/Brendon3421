@@ -1,0 +1,33 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checa o código do seu repositório
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      # Gera o Snake Game a partir do gráfico de contribuições
+      - name: Generate Snake Game from GitHub contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Brendon3421 # Substitua pelo seu nome de usuário do GitHub
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Publica o Snake Game no branch `output`
+      - name: Push Snake Game to the repository
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
